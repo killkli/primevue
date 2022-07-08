@@ -787,6 +787,7 @@ input.p-dropdown-label  {
 }
 
 .p-dropdown-panel {
+    z-index: 999;
     position: absolute;
     top: 0;
     left: 0;
